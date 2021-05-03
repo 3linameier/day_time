@@ -21,6 +21,8 @@ Ma proovisin teha ka Github Page sellele projektile, aga miskipärast ei tööta
 
 # Veebirakendus
 
+Kuna Flutter on mõeldud kasutamiseks ka IOS ja Android äppide loomiseks, siis on projekti kaustas ka vastavalt ios ja android kaustad, aga neid ma ei muutnud. Veebirakenduse jaoks on põhiline fail lib/main.dart.
+
 ![Screenshot 2021-05-03 at 19 20 31](https://user-images.githubusercontent.com/56025134/116910484-5e08e580-ac4e-11eb-82aa-9cd219818866.png)
 
 ![Screenshot 2021-05-03 at 19 21 12](https://user-images.githubusercontent.com/56025134/116910491-5fd2a900-ac4e-11eb-9396-183c42d5d720.png)
